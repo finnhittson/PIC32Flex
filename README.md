@@ -14,3 +14,9 @@ To modify or view a revision of PIC32Flex, download any version of the board fro
 <p align="center">
   <img src="images/schematic.png" alt="Image 2" height=300px>
 </p>
+
+Opening the PCB editor of the latest version should present the following PCB layout.
+
+<p align="center">
+  <img src="images/pcb_layout.png" alt="Image 2" height=300px>
+</p>
