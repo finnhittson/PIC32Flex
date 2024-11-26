@@ -42,5 +42,8 @@ To build this board for yourself you need to send the gerber files to a PCB manu
 
 </div>
 
-This cost analysis does not include sales tax and shipping. These cost usually eclipse the cost of the board and components themselves if you plan to only make a few.
+This cost analysis does not include sales tax and shipping. These costs usually eclipse the cost of the board and components themselves, if you plan to only make a few.
 
+## Contributing
+
+Please download and change. Explore and learn. Please feel free to contact with questions, suggestions, and other projects you would like to see.
