@@ -27,17 +27,20 @@ To build this board for yourself you need to send the gerber files to a PCB manu
 
 <div align="center">
 
-| Qty | Reference   | Value           | Mfn                     | Mfn PN                        | Cost ($/device) |
-|-----|-------------|-----------------|-------------------------|--------------------------------|----------------|
-| 1   | C3          | 10u            | Murata Electronics      | GRM155R60J106ME05D            | $0.10 |
-| 3   | C1, C2, C4  | 0.1u           | Murata Electronics      | GRM155R71C104KA88J            | $0.08 |
-| 1   | D1          | LED            | Inolux                  | IN-S42BTR                     | $0.28 |
-| 1   | R2          | 10k            | YAGEO                   | RC0402JR-0710KL               | $0.10 |
-| 2   | R1, R3      | 1k             | YAGEO                   | RC0402JR-071KL                | $0.10 |
-| 1   | SW1         | Reset          | C&K                     | PTS636SM50JSMTR LFS           | $0.25 |
-| 1   | U1          | PIC32MX170F256B | Microchip Technology    | PIC32MX170F256B-I/ML          | $4.86 |
-
+| Qty | Reference   | Value           | Mfn                     | Mfn PN                         | Cost ($/device) |
+|-----|-------------|-----------------|-------------------------|--------------------------------|-----------------|
+| 1   | C3          | 10u             | Murata Electronics      | GRM155R60J106ME05D             | $0.10  |
+| 3   | C1, C2, C4  | 0.1u            | Murata Electronics      | GRM155R71C104KA88J             | $0.08  |
+| 1   | D1          | LED             | Inolux                  | IN-S42BTR                      | $0.28  |
+| 1   | R2          | 10k             | YAGEO                   | RC0402JR-0710KL                | $0.10  |
+| 2   | R1, R3      | 1k              | YAGEO                   | RC0402JR-071KL                 | $0.10  |
+| 1   | SW1         | Reset           | C&K                     | PTS636SM50JSMTR LFS            | $0.25  |
+| 1   | U1          | PIC32MX170F256B | Microchip Technology    | PIC32MX170F256B-I/ML           | $4.86  |
+|     |             |                 |                         | Total Device Cost              | $6.03  |
+|     |             |                 |                         | Total Board Cost w/ stencil    | $9.11  |
+|     |             |                 |                         | Total Costs                    | $15.14 |
 
 </div>
 
+This cost analysis does not include sales tax and shipping. These cost usually eclipse the cost of the board and components themselves if you plan to only make a few.
 
