@@ -6,3 +6,11 @@ PIC32Flex is a breakout board for the PIC32MX170F256B. This repo holds schematic
   <img src="images/rendered_side_view.png" alt="Image 2" height=300px>
   <img src="images/rendered_top_view.png" alt="Image 1" height=300px>
 </p>
+
+## Download and Modification
+
+To modify or view a revision of PIC32Flex, download any version of the board from the `hardware/` directory. All revisions were made using [KiCad 8.0](https://www.kicad.org/download/) which is a free PCB design software. Once downloaded, extract the file into the directory of your choice and open the `PIC32Flex.kicad_pro` file. This should open up a the KiCad start page where you can choose to view and then modify the schematic, PCB layout, and most other features related to the board. KiCad files are not backwards compatable so you may need to upgrade to KiCad 8.0 if you are working with an older version. If you download the most recent version and open the schematic editor you will find the following.
+
+<p align="center">
+  <img src="images/schematic.png" alt="Image 2" height=300px>
+</p>
